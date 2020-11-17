@@ -5,10 +5,10 @@ For confidentiality purposes, the name and password from the database were kept 
 Also in the code you can see 2 examples of writing database queries.
 
 
-Using a get request, if the word "iPhone" is in the url of the page, then this jsoncode will be displayed:\n
-![alt text](query.png)\n
+Using a get request, if the word "iPhone" is in the url of the page, then this jsoncode will be displayed:
+![alt text](query.png)
 
-Similar to "img":\n
+Similar to "img":
 ![alt text](querry.png)
 
 If you also add the js code, then you can observe the further situation:
