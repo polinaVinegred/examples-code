@@ -7,3 +7,6 @@ All coding standards were taken into account.
 
 
 Below I will give examples of the main page of this site:
+
+![alt text](scrin.png)
+![alt text](scrinfooter.png)
