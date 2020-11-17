@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&family=Noto+Sans+JP&family=Raleway&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+html,
+body {
+    background: #d5d6d2;
+}
+
+.img {
+    background-image: URL(img/ocean.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    text-align: center;
+    line-height: 600px;
+    font-size: 20px;
+    display:block;
+    margin:auto;
+    color: #ffffff;
+}
+
+.conteiner {
+    background-color: #ffffff;
+    width: 90%;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.menu {
+    width: 100%;
+    text-align: center;
+    padding: .75rem 0;
+}
+
+ul li {
+    display: inline;
+    text-align: center;
+}
+
+.ultest {
+    display: inline-block;
+    width: 16%;
+    padding: .75rem 0;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    color: #2f2e33;
+}
+
+.ultest:hover {
+    color: #3a5199;
+}
+
+.centerimg {
+    width: 100%;
+    text-align: center;
+    padding: .75rem 0;
+}
+
+.imgclass {
+    display: inline-block;
+    margin: 30px;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    color: #2f2e33;
+}
+
+.footer {
+    background-color: #3a5199;
+    padding: 60px 40px;
+    color: rgba(255,255,255,1.00);
+    margin-bottom: 20px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 6px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.footer .footer-brand, .footer .footer-nav, .footer .footer-social, .footer .footer-ns {
+    padding:10px 25px;
+}
+
+.footer .footer-brand p {
+    font-size:12px;
+    color:rgba(255,255,255,0.70);
+}
+
+.footer .footer-social h4 {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.footer.footer-social li {
+    padding:5px 4px;
+}
+
+.footer .footer-social a:hover {
+    color:rgba(255,255,255,0.80);
+    text-decoration:none;
+}
+
+.footer .footer-ns h4 {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom:10px;
+}
+
+@media (min-width: 768px) {
+    .footer .footer-nav, .footer .footer-social, .footer.footer-ns {
+        border-left:solid 1px rgba(255,255,255,0.10);
+    }
+}
