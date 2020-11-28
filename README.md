@@ -1,6 +1,7 @@
-# examples-code
+examples-code
+=============
 
-In this repository, you can see code examples from various projects.
+#### In this repository, you can see code examples from various projects.
 
 Excerpts from the full program are used here.
 
