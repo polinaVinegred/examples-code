@@ -1,4 +1,7 @@
-In this repository you can find html file, css file as well as images for this page.
+HTML examples
+=============
+
+#### In this repository you can find html file, css file as well as images for this page.
 
 Here is the code for a one page cross platform rubber site.
 The code is completely written in html and css.
